@@ -59,7 +59,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://www.linkedin.com/in/karanverma-95944a219/"
+            href="https://www.linkedin.com/in/dilip-kumar-a1506611a/"
             target="_blank"
             rel="noreferrer"
           >
@@ -68,7 +68,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="mailto:karanverma005@hotmail.com"
+            href="mailto:gdesigner.dk@gmail.com"
           >
             <FaEnvelope />
           </a>
@@ -76,7 +76,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Karan_Verma.pdf"
+        href="/DilipKumar_Resume_vModern 2025_vShowcase.pdf"
         target="_blank"
         rel="noreferrer"
       >

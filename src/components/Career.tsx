@@ -15,74 +15,59 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Head of Marketing</h4>
-                <h5>Erickson Coaching International</h5>
+                <h4>Senior Graphic Designer</h4>
+                <h5>xMonks · Gurugram (Delhi NCR)</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Marketing Leader driving ROI-focused marketing at scale. Leading a
-              10+ member team across performance marketing, AI-driven workflows,
-              and automation. Specialized in building high-converting funnels,
-              reducing CAC, and delivering measurable growth through data,
-              technology, and scalable marketing systems.
+              Leading brand identity and design at xMonks — a Personal and Leadership Transformation company.
+              Delivered India's first Coaching Magazine "Alchemy" (6 issues), boosted user engagement by 55%,
+              website traffic by 78%, and email open rates from 20% to 46% through impactful creatives.
+              Managed a team of three graphic designers, improving on-time delivery from 32% to 75%.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Head of Marketing</h4>
-                <h5>Irish Expert · Delhi</h5>
+                <h4>Senior Graphic Designer</h4>
+                <h5>Digital World · Gurugram (Delhi NCR)</h5>
               </div>
-              <h3>2023–24</h3>
+              <h3>2017–19</h3>
             </div>
             <p>
-              Drove results with a dynamic team of designers, analysts,
-              videographers, writers, and developers. Passionate about
-              data-driven storytelling and innovative campaigns.
+              Delivered daily creatives for corporate designing and printing clients. Designed menus,
+              leaflets, brochures, billboards, digital boards, and branding materials for clients including
+              Glitz Studio, Yummy Platters, Teacupsfull, The Goodness Store, and The Hillroot Farm.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Marketing Manager</h4>
-                <h5>Skills Caravan LXP · Delhi</h5>
+                <h4>Graphic Designer</h4>
+                <h5>PrintExpressions · Gurugram (Delhi NCR)</h5>
               </div>
-              <h3>2023</h3>
+              <h3>2016–17</h3>
             </div>
             <p>
-              Managed end-to-end marketing operations for the LXP platform,
-              driving brand awareness, lead generation, and product adoption
-              through integrated digital campaigns.
+              Created diverse marketing and branding materials for high-profile clients. Raised TATA Motors
+              client engagement by 35% through brochures, manuals, and wallpaper branding. Increased
+              Volkswagen client engagement by 42% through wallpapers, banners, and posters.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Asst. Digital Marketing Manager</h4>
-                <h5>xMonks · Gurugram</h5>
+                <h4>Graphic Designer</h4>
+                <h5>Impression Plus · Gurugram (Delhi NCR)</h5>
               </div>
-              <h3>2020–23</h3>
+              <h3>2015–16</h3>
             </div>
             <p>
-              Progressed from Digital Marketing Executive (Oct 2020) to
-              Assistant Digital Marketing Manager (Nov 2021). Led performance
-              marketing initiatives, SEO/SEM campaigns, and marketing
-              automation workflows for the xMonks ecosystem.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Growth Marketing Associate</h4>
-                <h5>NetCom Learning · Noida</h5>
-              </div>
-              <h3>2020</h3>
-            </div>
-            <p>
-              Contributed to growth marketing strategies, customer acquisition
-              campaigns, and lead nurturing pipelines for an e-learning
-              platform.
+              Engaged 65% of organizational clients through corporate gifting, print branding, and media
+              branding creatives. Delivered brochures, standees, visiting cards, lanyards, and ID cards
+              for clients like CEVENT and Cut &amp; Style. Increased brand engagement by 42% for sports
+              brand clients Sport Sala and Passerine.
             </p>
           </div>
         </div>

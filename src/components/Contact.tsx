@@ -11,35 +11,44 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/karanverma-95944a219/"
+                href="https://www.linkedin.com/in/dilip-kumar-a1506611a/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — karanverma-95944a219
+                LinkedIn — dilip-kumar-a1506611a
               </a>
             </p>
             <p>
               <a
-                href="mailto:karanverma005@hotmail.com"
+                href="mailto:gdesigner.dk@gmail.com"
                 data-cursor="disable"
               >
-                karanverma005@hotmail.com
+                gdesigner.dk@gmail.com
+              </a>
+            </p>
+            <p>
+              <a
+                href="https://www.behance.net/dilipkumar_3010"
+                target="_blank"
+                rel="noreferrer"
+                data-cursor="disable"
+              >
+                Behance — dilipkumar_3010
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              MCA, Vivekananda Institute of Professional Studies — 2017–2020
+              Bachelor of Art, CSJM University Kanpur — 2013–2015
             </p>
             <p>
-              BCA, Jagannath International Management School, Vasant Kunj —
-              2014–2017
+              Diploma in Printing & Publishing, Arena Multimedia, New Delhi
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://www.linkedin.com/in/karanverma-95944a219/"
+              href="https://www.linkedin.com/in/dilip-kumar-a1506611a/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -48,7 +57,16 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="mailto:karanverma005@hotmail.com"
+              href="https://www.behance.net/dilipkumar_3010"
+              target="_blank"
+              rel="noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Behance <MdArrowOutward />
+            </a>
+            <a
+              href="mailto:gdesigner.dk@gmail.com"
               data-cursor="disable"
               className="contact-social"
             >
@@ -57,7 +75,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Portfolio of <br /> <span>Karan Verma</span>
+              Portfolio of <br /> <span>Dilip Kumar</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

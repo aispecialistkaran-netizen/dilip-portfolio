@@ -87,21 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>PERFORMANCE MARKETING</h3>
-              <h4>Data-Driven Growth at Scale</h4>
+              <h3>BRANDING & IDENTITY</h3>
+              <h4>Visual Storytelling & Brand Strategy</h4>
               <p>
-                Results-focused performance marketer specialized in SEO, SEM,
-                paid media, and social ads—building high-converting funnels that
-                reduce CAC and maximize ROI across every channel.
+                Senior graphic designer specializing in brand identity, digital
+                branding, and editorial design—transforming concepts into
+                compelling visual narratives that engage audiences and strengthen
+                brand value.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">SEO &amp; SEM</div>
-                <div className="what-tags">Paid Media</div>
-                <div className="what-tags">Social Ads</div>
-                <div className="what-tags">Lead Generation</div>
-                <div className="what-tags">Funnel Optimization</div>
-                <div className="what-tags">ROI Attribution</div>
+                <div className="what-tags">Brand Identity</div>
+                <div className="what-tags">Digital Branding</div>
+                <div className="what-tags">Editorial Design</div>
+                <div className="what-tags">Typography</div>
+                <div className="what-tags">Color Theory</div>
+                <div className="what-tags">Print Design</div>
+                <div className="what-tags">Wireframing</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -125,21 +127,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>MARKETING AUTOMATION</h3>
-              <h4>AI-Powered CRM &amp; Workflow Systems</h4>
+              <h3>MOTION GRAPHICS & DIGITAL DESIGN</h3>
+              <h4>Engaging Visuals That Drive Results</h4>
               <p>
-                Expert in building intelligent marketing automation pipelines
-                using HubSpot, Zoho, Marketo, and AI-powered CRMs—turning
-                manual processes into scalable, measurable revenue engines.
+                Skilled in motion graphics and digital design—creating impactful
+                social media creatives, animated content, and multimedia
+                campaigns that boosted client engagement by up to 42% across
+                LinkedIn, Instagram, and WhatsApp.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">HubSpot</div>
-                <div className="what-tags">Zoho &amp; Marketo</div>
-                <div className="what-tags">AI-powered CRMs</div>
-                <div className="what-tags">WhatsApp API</div>
-                <div className="what-tags">CRO &amp; Lead Nurturing</div>
-                <div className="what-tags">Predictive Analytics</div>
+                <div className="what-tags">Adobe After Effects</div>
+                <div className="what-tags">Adobe Photoshop</div>
+                <div className="what-tags">Adobe Illustrator</div>
+                <div className="what-tags">Adobe InDesign</div>
+                <div className="what-tags">CorelDRAW</div>
+                <div className="what-tags">Motion Graphics</div>
               </div>
               <div className="what-arrow"></div>
             </div>
